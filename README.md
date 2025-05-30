@@ -43,17 +43,13 @@ Ovaj projekt koristi strojno učenje za otkrivanje prijevara s kreditnim kartica
    git clone https://github.com/korisnik/ime-repozitorija.git
    cd ime-repozitorija
    ```
-2. Instaliraj ovisnosti:
 
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Pokreni Jupyter Notebook:
+2. Pokreni Jupyter Notebook:
 
    ```bash
    jupyter notebook
    ```
-4. Otvori i pokreni `Otkrivanje_prijevare_s_kreditnom_karticom.ipynb`.
+3. Otvori i pokreni `Otkrivanje_prijevare_s_kreditnom_karticom.ipynb`.
 
 ##  Rezultati
 
